@@ -1,9 +1,12 @@
 # TSVPS
 
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
 Python script to solve a NP-hard problem in combinatorial optimization similar to the [Traveling-Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem) for a specific dataset that can be connected to the [MapBox API](https://www.mapbox.com/). This algorithm uses the Miller–Tucker–Zemlin formulation approach.
 
 <p align="center">
-  <img width="460" height="300" src="https://thumbs.gfycat.com/HalfSpitefulAzurevase-max-1mb.gif">
+  <img width="460" src="https://thumbs.gfycat.com/HalfSpitefulAzurevase-max-1mb.gif">
 </p>
 
 ## Getting Started
